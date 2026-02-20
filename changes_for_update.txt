@@ -1,0 +1,15 @@
+/**** Must Modify Files ****/
+
+composer.json
+app\Http\Kernel.php
+app\Http\Middleware\TrustProxies.php
+
+
+
+/**** Also Modify Files ****/
+modified:   app/Providers/MacroServiceProvider.php
+modified:   config/app.php
+modified:   phpunit.xml
+modified:   resources/views/partials/admin/head.blade.php
+modified:   vendor/composer/installed.php
+
